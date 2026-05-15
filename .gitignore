@@ -2,6 +2,7 @@
 __pycache__/
 .pytest_cache/
 .venv/
+.venv-win/
 venv/
 node_modules/
 dist/
